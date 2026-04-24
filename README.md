@@ -13,3 +13,11 @@ Analyzed relationship between CRISIL ESG scores and financial metrics (ROA, ROE)
   </a>
 </p>
 
+## Need of the Study
+1.	Understanding ESG Impact
+2.	Adapting to Regulations
+3.	Improving Financial Performance
+4.	Boosting Customer Trust
+5.	Supporting Economic Growth
+6.	Encouraging Sustainable Practices
+7.	Filling Knowledge Gaps
