@@ -5,12 +5,8 @@ Analyzed relationship between CRISIL ESG scores and financial metrics (ROA, ROE)
 ## 🔧 Tools Used
 
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/512/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/></a>
 </p>
 
 ## Need of the Study
